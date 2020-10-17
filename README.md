@@ -1,4 +1,5 @@
 # quiz
+A demo quiz with Vue. Works with an api and submits answers. 
 
 ## Project setup
 ```
